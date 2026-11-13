@@ -33,8 +33,7 @@ The game isn't signed by a known publisher yet, so Windows may say it protected 
 | How to play | H |
 | Pause and settings | Esc |
 
-Settings let you change the graphics quality, resolution and UI size, the volume, the mouse sensitivity and the length
-of a day.
+Settings let you change the graphics quality, resolution and UI size, the volume and the mouse sensitivity.
 
 ## More screenshots
 
