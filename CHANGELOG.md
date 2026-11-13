@@ -6,6 +6,7 @@ All notable changes to *Life Creation*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.3.2 | 2026-11-13 | Beta | A 3D yard all around the shed |
 | v0.3.1 | 2026-11-13 | Beta | Put tools down where you aim, the printer behind the dish |
 | v0.3.0 | 2026-11-13 | Beta | Dish rework: glass lids, see-through agar, sample dishes from the fridge |
 | v0.2.1 | 2026-11-12 | Beta | Syringe and spill fixes, US spelling, vial labels that hide behind things |
@@ -14,6 +15,18 @@ All notable changes to *Life Creation*, newest first.
 | v0.1.0 | 2026-11-02 | Beta | New lab interface and pause menu |
 | v0.0.9 | 2026-11-02 | Beta | Fixes for built games |
 | v0.0.8 | 2026-11-02 | Beta | Art pass and first ticket fixes |
+
+---
+
+## v0.3.2 · 2026-11-13 · Beta
+
+The view out of the window is a real 3D yard now, all around the shed.
+
+### Changes
+
+- Grass all around the shed, inside a white picket fence with a gap at the front for a gate.
+- Trees, bushes and lavender beds in the yard. From the stool, a pink blossom tree and a tall slim tree frame the window and the middle of the view stays open. Stand at the window to see the flower bed and the yard up close.
+- The painted trees and fence are gone, and the painted hills and clouds sit further back, behind the yard.
 
 ---
 
