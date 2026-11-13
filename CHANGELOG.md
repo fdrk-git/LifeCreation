@@ -6,12 +6,42 @@ All notable changes to *Life Creation*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.3.0 | 2026-11-13 | Beta | Dish rework: glass lids, see-through agar, sample dishes from the fridge |
 | v0.2.1 | 2026-11-12 | Beta | Syringe and spill fixes, US spelling, vial labels that hide behind things |
 | v0.2.0 | 2026-11-12 | Beta | UI refresh: new logo, glass HUD, keycaps that press in |
 | v0.1.1 | 2026-11-03 | Beta | Ultrawide layout, UI scale and resolution settings, clearer tool states |
 | v0.1.0 | 2026-11-02 | Beta | New lab interface and pause menu |
 | v0.0.9 | 2026-11-02 | Beta | Fixes for built games |
 | v0.0.8 | 2026-11-02 | Beta | Art pass and first ticket fixes |
+
+---
+
+## v0.3.0 · 2026-11-13 · Beta
+
+The dish rework: the dishes look and work like real lab glass, and the culture samples are something you keep stocked.
+
+### Highlights
+
+- The sample dish holds 8 samples, and they don't come back. When it's empty, carry it to the biohazard bin by the sink and press <kbd>E</kbd>: the pedal goes down, the lid flips open and the dish drops in.
+- Fresh sample dishes are in the mini fridge. Its door swings open with a light inside, and <kbd>E</kbd> takes one off the stack. The game starts with none out, so your first one comes from the fridge too.
+- The agar is a see-through amber gel with no shine.
+- Glass dome lids: incubating sets a lid down on the culture dish instead of the purple glow, and every dish on the specimen shelf sits under its dome.
+- The sample dish has a flat glass lid that tips open while the tweezers are over it.
+
+### Changes
+
+- An empty sample dish left on the bench for two minutes goes moldy. Bin it in time.
+- The biohazard bin starts empty, with a red bag inside, and every dish you throw in stays there, so the pile grows.
+- The 8 samples are scattered across the sample dish at random, never touching each other, and the colony dots are gone, so the samples are easier to see.
+- How to play has a **Sample dishes** section, and the clipboard says when to get a fresh dish.
+- Luminous cultures glow about a quarter less, and the bloom is softer.
+
+### Fixes
+
+- Bleach cleans mold in the sample dish.
+- Pouring bleach on a specimen dish lifts its lid first and puts it back on after.
+- The crosshair stays on while you hold the sample dish, and the bin shows **[E] Throw the dish away**.
+- Closing the pause menu before ever opening Settings no longer leaves the HUD hidden.
 
 ---
 
