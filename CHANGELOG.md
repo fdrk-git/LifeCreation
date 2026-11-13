@@ -6,6 +6,7 @@ All notable changes to *Life Creation*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.4.0 | 2026-11-13 | Beta | A waste beaker that fills up, wipes from the tub |
 | v0.3.2 | 2026-11-13 | Beta | A 3D yard all around the shed |
 | v0.3.1 | 2026-11-13 | Beta | Put tools down where you aim, the printer behind the dish |
 | v0.3.0 | 2026-11-13 | Beta | Dish rework: glass lids, see-through agar, sample dishes from the fridge |
@@ -15,6 +16,27 @@ All notable changes to *Life Creation*, newest first.
 | v0.1.0 | 2026-11-02 | Beta | New lab interface and pause menu |
 | v0.0.9 | 2026-11-02 | Beta | Fixes for built games |
 | v0.0.8 | 2026-11-02 | Beta | Art pass and first ticket fixes |
+
+---
+
+## v0.4.0 · 2026-11-13 · Beta
+
+The waste beaker and the alcohol wipes are things you look after now, like the sample dishes.
+
+### Highlights
+
+- The waste beaker fills up with what you squirt into it, and the colors mix. The paper clumps are gone.
+- When it's nearly full, carry it to the biohazard bin and press <kbd>E</kbd> to pour it in. Then rinse it under the tap before it takes more.
+- Keep squirting into a full beaker and it runs over the side, leaving a spill to clean up.
+- <kbd>E</kbd> on the wipe tub gives you a fresh wipe. Used wipes stay where you put them and go moldy if you leave them out: throw them in the biohazard bin.
+
+### Changes
+
+- The biohazard bin fills up with the waste you pour in, and what you throw in after that lands on top.
+- The waste beaker and the wipes can be put down anywhere, like the other tools. A wipe drops right where you let go, and a clean one goes back in the tub with <kbd>E</kbd>.
+- Waste isn't allowed down the sink.
+- New notices when the beaker is nearly full or overflowing, when it needs a rinse, and when a used wipe is left out or goes moldy.
+- The clipboard's clean-up list asks you to empty the waste beaker and bin used wipes, and How to play has a Waste beaker section.
 
 ---
 
