@@ -6,6 +6,7 @@ All notable changes to *Life Creation*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.3.1 | 2026-11-13 | Beta | Put tools down where you aim, the printer behind the dish |
 | v0.3.0 | 2026-11-13 | Beta | Dish rework: glass lids, see-through agar, sample dishes from the fridge |
 | v0.2.1 | 2026-11-12 | Beta | Syringe and spill fixes, US spelling, vial labels that hide behind things |
 | v0.2.0 | 2026-11-12 | Beta | UI refresh: new logo, glass HUD, keycaps that press in |
@@ -13,6 +14,19 @@ All notable changes to *Life Creation*, newest first.
 | v0.1.0 | 2026-11-02 | Beta | New lab interface and pause menu |
 | v0.0.9 | 2026-11-02 | Beta | Fixes for built games |
 | v0.0.8 | 2026-11-02 | Beta | Art pass and first ticket fixes |
+
+---
+
+## v0.3.1 · 2026-11-13 · Beta
+
+Small fixes after the dish rework.
+
+### Changes
+
+- Tools go down where you aim: press <kbd>E</kbd> over a clear, flat spot and the syringe, the tweezers or the sample dish is set down right there. Where it can't go, it goes back to where it was, and the hint says **Put back**. Alcohol wipes still go back to their tub.
+- A sample dish with samples left can be picked up too, to move it somewhere handier. <kbd>E</kbd> on a sample in the dish picks up the dish. The biohazard bin won't take it until it's empty, and says how many samples are left.
+- The report printer sits at the back of the bench, behind the culture dish, so reports come out in plain view.
+- The day length setting is gone: every day is as long as it was designed to be.
 
 ---
 
