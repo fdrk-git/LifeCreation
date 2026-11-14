@@ -6,6 +6,8 @@ All notable changes to *Life Creation*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.5.1 | 2026-11-14 | Beta | Liquids that don't mix and slosh, tools stay within reach |
+| v0.5.0 | 2026-11-14 | Beta | Hands: your gloved hand holds every tool |
 | v0.4.0 | 2026-11-13 | Beta | A waste beaker that fills up, wipes from the tub |
 | v0.3.2 | 2026-11-13 | Beta | A 3D yard all around the shed |
 | v0.3.1 | 2026-11-13 | Beta | Put tools down where you aim, the printer behind the dish |
@@ -16,6 +18,45 @@ All notable changes to *Life Creation*, newest first.
 | v0.1.0 | 2026-11-02 | Beta | New lab interface and pause menu |
 | v0.0.9 | 2026-11-02 | Beta | Fixes for built games |
 | v0.0.8 | 2026-11-02 | Beta | Art pass and first ticket fixes |
+
+---
+
+## v0.5.1 · 2026-11-14 · Beta
+
+Fixes and polish from playing v0.5.0, and a waste beaker whose liquids keep their own colors.
+
+### Highlights
+
+- The waste beaker no longer mixes everything into one color: each reagent keeps its own color and folds through the others in slowly drifting bands.
+- Carry the beaker and its liquid sloshes like water: the surface tilts away from the way you move it, rocks back and forth and settles, with ripples on top.
+
+### Changes
+
+- Tools only go down on the half of the bench nearest your stool, or back on their own spot. Aim further away and they land at the nearest spot you can reach.
+- Pressing <kbd>E</kbd> where a tool can't go puts it at the nearest place it can, shown by the light-blue ghost, instead of sending it back across the lab.
+- The view leans in more gently when you draw from a vial, so it's no longer a quick lurch.
+- Only the syringe and the tweezers shake in your hand now; the bleach, beaker, wipe and sample dish are held steady.
+
+---
+
+## v0.5.0 · 2026-11-14 · Beta
+
+You have hands now: a gloved hand in a lab-coat sleeve holds every tool.
+
+### Highlights
+
+- Light-blue nitrile gloves under a white lab-coat sleeve. Every tool has its own grip: the syringe with your thumb on the plunger, the tweezers held like a pen that closes as you squeeze, the bleach bottle and waste beaker round the middle like a mug, the wipe pinched by its gathered middle, the sample dish carried like a plate, and a relaxed hand when you hold nothing.
+- Drawing from a vial, your left hand comes in to pull the plunger out, and goes away when you stop.
+- Looking at bare bench, or at something the tool can't be used on, the tool waits by your hand and a light-blue ghost shows where <kbd>E</kbd> would set it down. It still goes out to whatever you can use it on, or while you hold the left mouse button.
+- Sitting at the bench with a tool, the view leans in toward things that are too far to reach.
+- With a sample in the tweezers, they stay out over the bench with the aim marker, so you can see where it would land, and you can't stand up or walk off with it.
+
+### Changes
+
+- The sample dish and the waste beaker turn with you, so they stay put in your hand.
+- A wipe goes to the ghost spot, and stays in your hand with a message if there's nowhere to put it. Looking at the biohazard bin with a wipe says "Throw the wipe away".
+- A sample that falls on the floor goes back to its dish, dirty.
+- Your sleeves fade out just behind the cuff, so your arms don't run the whole length of the view.
 
 ---
 
