@@ -6,6 +6,7 @@ All notable changes to *Life Creation*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.5.5 | 2026-11-15 | Beta | Two-handed jobs: your left hand pulls the vial corks and lifts the dish lid |
 | v0.5.4 | 2026-11-15 | Beta | The starter shed: a pine workbench, plywood floor, corked vials that pop open as you draw |
 | v0.5.3 | 2026-11-15 | Beta | Run and crouch, rebindable keys, a view that leans further, hands that stay out of the bench |
 | v0.5.2 | 2026-11-15 | Beta | Hands that feel alive, a view that follows your hand, grass in the yard, things tumble into the bin |
@@ -21,6 +22,23 @@ All notable changes to *Life Creation*, newest first.
 | v0.1.0 | 2026-11-02 | Beta | New lab interface and pause menu |
 | v0.0.9 | 2026-11-02 | Beta | Fixes for built games |
 | v0.0.8 | 2026-11-02 | Beta | Art pass and first ticket fixes |
+
+---
+
+## v0.5.5 · 2026-11-15 · Beta
+
+Your left hand gets to work: it pulls the corks out of the vials and lifts the lid off the sample dish.
+
+### Highlights
+
+- Corks: when you hold <kbd>LMB</kbd> over a vial with the syringe, your left hand reaches in, pinches the cork, pulls it out and sets it down on the rack beside the vial, then goes to the plunger. The syringe waits until the cork is out.
+- The cork goes back in only when you haven't drawn for about two seconds, or a moment after you look away from the vial. The hand takes it back and pushes it home with a plop.
+- The dish lid: when the tweezers go over the sample dish, your left hand takes the lid by its edge, lifts it open and sets it back down. The lid has a pale rim now, so it's easy to see and to hold.
+- The left hand looks natural for these jobs: the fingers curl in, the thumb bends, and the hand comes in from the left, clear of the rack, the bench and your view.
+
+### Changes
+
+- The left hand starts from where the idle hand rests, rather than from your shoulder, and goes back there when the job is done.
 
 ---
 
