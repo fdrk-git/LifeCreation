@@ -6,6 +6,7 @@ All notable changes to *Life Creation*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.5.3 | 2026-11-15 | Beta | Run and crouch, rebindable keys, a view that leans further, hands that stay out of the bench |
 | v0.5.2 | 2026-11-15 | Beta | Hands that feel alive, a view that follows your hand, grass in the yard, things tumble into the bin |
 | v0.5.1 | 2026-11-14 | Beta | Liquids that don't mix and slosh, tools stay within reach |
 | v0.5.0 | 2026-11-14 | Beta | Hands: your gloved hand holds every tool |
@@ -19,6 +20,31 @@ All notable changes to *Life Creation*, newest first.
 | v0.1.0 | 2026-11-02 | Beta | New lab interface and pause menu |
 | v0.0.9 | 2026-11-02 | Beta | Fixes for built games |
 | v0.0.8 | 2026-11-02 | Beta | Art pass and first ticket fixes |
+
+---
+
+## v0.5.3 · 2026-11-15 · Beta
+
+You can run and crouch now, rebind every key, and lean much further toward what you reach for. Plus fixes from playing v0.5.2.
+
+### Highlights
+
+- Run: hold <kbd>Shift</kbd> while standing, 3.2 m/s against 1.8 walking. The waste beaker sloshes harder as you run.
+- Crouch: hold <kbd>C</kbd> to lower your view and creep along at 1 m/s.
+- Rebind any key: in Settings > Controls, click a key and press the new one. Letters, <kbd>Space</kbd> and <kbd>Shift</kbd> all work, a key that's already taken swaps places with the one using it, and it's saved with your settings. Every prompt in the game shows your keys, and Reset to defaults puts them back.
+- Leaning reaches much further: the view leans up to 65 cm toward what you reach for, sitting or standing, and comes back quicker. Over a vial it rises a little to see the top, and stays with the vial when your aim slips off its edge, so the view no longer jumps.
+- Your hands never sink into the bench: an empty hand lifts clear of the surface, and a tool in your hand comes up with it.
+
+### Changes
+
+- Steady hands only works sitting down, and only with the syringe and the tweezers; standing you just run. It has its own row in Settings > Controls, separate from Run, and the two can share a key.
+- The sample dish's full shadow shows on the wall, not just its samples.
+- Tools can't be set down inside the sample dish or through other things, so the tweezers can no longer get stuck in it. The placement preview glides from place to place.
+- The tweezers lie flat on the bench with the curved part up.
+- The sink and the alcohol wipes are back within easy reach, so you no longer have to stand too close to the sink to clean the syringe.
+- Drawing from a vial, its name panel steps aside and only the other vials' names stay.
+- The key rows in Settings > Controls fade in with the rest of the page.
+- After pointing at a specimen, your hand eases away to your shoulder in one smooth move instead of stopping at several points, and two sudden jumps as it came in are gone.
 
 ---
 

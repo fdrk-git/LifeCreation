@@ -26,14 +26,16 @@ The game isn't signed by a known publisher yet, so Windows may say it protected 
 | Pick up or put down | E |
 | Use the tool (syringe, tweezers) | Left mouse button |
 | Lean in | Right mouse button |
-| Steady hands | Shift (hold) |
+| Run (standing) | Shift (hold) |
+| Crouch | C (hold) |
+| Steady hands (sitting, syringe and tweezers) | Shift (hold) |
 | Look around | Mouse |
 | Let a specimen go | X |
 | Fresh dish | R |
 | How to play | H |
 | Pause and settings | Esc |
 
-Settings let you change the graphics quality, resolution and UI size, the volume and the mouse sensitivity.
+Settings let you change the graphics quality, resolution and UI size, the volume, the mouse sensitivity and which keys do what (click a key on the Controls page, then press the one you want).
 
 ## More screenshots
 
