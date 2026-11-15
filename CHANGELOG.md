@@ -6,6 +6,7 @@ All notable changes to *Life Creation*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.5.2 | 2026-11-15 | Beta | Hands that feel alive, a view that follows your hand, grass in the yard, things tumble into the bin |
 | v0.5.1 | 2026-11-14 | Beta | Liquids that don't mix and slosh, tools stay within reach |
 | v0.5.0 | 2026-11-14 | Beta | Hands: your gloved hand holds every tool |
 | v0.4.0 | 2026-11-13 | Beta | A waste beaker that fills up, wipes from the tub |
@@ -18,6 +19,29 @@ All notable changes to *Life Creation*, newest first.
 | v0.1.0 | 2026-11-02 | Beta | New lab interface and pause menu |
 | v0.0.9 | 2026-11-02 | Beta | Fixes for built games |
 | v0.0.8 | 2026-11-02 | Beta | Art pass and first ticket fixes |
+
+---
+
+## v0.5.2 · 2026-11-15 · Beta
+
+Your hands come alive, the view follows them, and the yard gets grass.
+
+### Highlights
+
+- Your hands are no longer stiff: they trail a little behind when you turn and catch up, rise and fall with your breath, and the fingers drift on their own and now and then ripple in and out. A hand holding a tool settles its grip now and then, and the tool takes the same sway.
+- Tap the meteorite jar and your knuckles knock twice on the glass, with a clink each time.
+- Now and then, looking at a specimen you made, your finger points at it. A docile one is beckoned, a calm one gets a little wiggle, a curious one a slow circle to follow, a feisty one a tap it chases and snaps at, and a vicious one snaps back so you jerk away. The microbe watches your fingertip.
+- Grass all over the yard: thick along the fence and round the shed, sparser further out, swaying in a slow breeze.
+- Dishes and wipes you throw in the biohazard bin fall in with real physics, tumble onto what's already there and settle with a thud.
+
+### Changes
+
+- Reaching for something far, the view now follows your hand forward (up to 30 cm) instead of your arm stretching, and glides there and back gently. Picking a tool up no longer moves the view.
+- Tools only go out to what you look at within about 0.95 m of you; further away, or standing back from the bench, they stay by your hand. Sitting, the far vials and the beaker are still reached by leaning in.
+- A syringe with liquid in it stays out over the bench with no ghost. You can set it down with <kbd>E</kbd>, stand up and walk with it. Looking away, a tool with a sample or liquid in it comes along with your view instead of hanging in the air.
+- Wipes only go moldy when they're used up. A part-used one on the bench stays clean and says how much is left; only used-up ones count for "Bin used wipes".
+- The name tags over the reagent stand only show while you look at a vial.
+- Your sleeve and shoulder move forward with your hand, so your arm never looks longer than a real arm.
 
 ---
 
