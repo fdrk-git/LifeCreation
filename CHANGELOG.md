@@ -6,6 +6,7 @@ All notable changes to *Life Creation*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.5.4 | 2026-11-15 | Beta | The starter shed: a pine workbench, plywood floor, corked vials that pop open as you draw |
 | v0.5.3 | 2026-11-15 | Beta | Run and crouch, rebindable keys, a view that leans further, hands that stay out of the bench |
 | v0.5.2 | 2026-11-15 | Beta | Hands that feel alive, a view that follows your hand, grass in the yard, things tumble into the bin |
 | v0.5.1 | 2026-11-14 | Beta | Liquids that don't mix and slosh, tools stay within reach |
@@ -20,6 +21,24 @@ All notable changes to *Life Creation*, newest first.
 | v0.1.0 | 2026-11-02 | Beta | New lab interface and pause menu |
 | v0.0.9 | 2026-11-02 | Beta | Fixes for built games |
 | v0.0.8 | 2026-11-02 | Beta | Art pass and first ticket fixes |
+
+---
+
+## v0.5.4 · 2026-11-15 · Beta
+
+The shed gets its starter look: you've just stolen an alien egg and set up in a small shed with leftover equipment, so everything is pine, plywood, tape and cork.
+
+### Highlights
+
+- A budget wooden lab: a pine plank workbench and a shelf screwed to the back wall, a plywood floor, a pine stool with a teal cushion, a pine sink cabinet, a cream bar fridge, and the pegboard and cork board in pine frames.
+- The reagent vials have cork stoppers and strips of masking tape with the name written in marker. The Lumen tube matches the others now.
+- Drawing from a vial pops its cork out: it flies up along a curve, turning as it goes, and hovers beside the neck, with a pop. Stop and it drops back in with a plop.
+
+### Changes
+
+- The vial rack is plain pine with screws.
+- The lab monitor, the report printer and the syringe's plastic are yellowed with age, the printer has tape across its lid, and the biohazard bin has a strip of duct tape on its side.
+- The specimen shelf hangs on the back wall, at the same height with the same eight slots. The monitor, which used to clamp to the shelf's post, stands on a steel pole at the bench's back corner.
 
 ---
 

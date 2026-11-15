@@ -5,7 +5,7 @@ clean, and read the report that prints for every dish you incubate.
 
 **Developed by FDRK Group.** Life Creation is in early beta: new versions come out often, and things will change.
 
-![The lab bench](docs/screenshots/bench.jpg)
+![The pine workbench in the starter shed](docs/screenshots/bench.jpg)
 
 ## Download and play
 
