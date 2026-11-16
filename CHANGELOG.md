@@ -6,6 +6,7 @@ All notable changes to *Life Creation*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.5.7 | 2026-11-16 | Beta | The starter look, part 2: a cardboard vial tag, a plain printed report, and an old CRT monitor with a retro desktop |
 | v0.5.6 | 2026-11-16 | Beta | Fixes from playing v0.5.5: rebind any key, an icon for every key, a sink with a drain, a view that leans only sitting |
 | v0.5.5 | 2026-11-15 | Beta | Two-handed jobs: your left hand pulls the vial corks and lifts the dish lid |
 | v0.5.4 | 2026-11-15 | Beta | The starter shed: a pine workbench, plywood floor, corked vials that pop open as you draw |
@@ -23,6 +24,25 @@ All notable changes to *Life Creation*, newest first.
 | v0.1.0 | 2026-11-02 | Beta | New lab interface and pause menu |
 | v0.0.9 | 2026-11-02 | Beta | Fixes for built games |
 | v0.0.8 | 2026-11-02 | Beta | Art pass and first ticket fixes |
+
+---
+
+## v0.5.7 · 2026-11-16 · Beta
+
+The second part of the starter look: the vial you look at gets a cardboard tag, the printed report turns plain, and the lab monitor becomes an old CRT showing a grey retro desktop.
+
+### Highlights
+
+- Vial tag: the vial you look at gets a cardboard tag on a string, written in marker pen, with its name, dose, what it is and the trait it adds. It replaces the floating hologram labels. The handwriting font is Permanent Marker (Apache License 2.0, licence file included).
+- The lab monitor is an old chunky CRT instead of the flat screen. It stands at the right end of the bench, turned toward the stool, and is plugged into a wall socket on the back wall with a cable across the bench.
+- Its screen is a grey retro desktop: a window with a title bar, a menu, a hygiene readout with a block progress bar, tiles for mould, spills and dirty tools, a message line and a taskbar with a clock. Warnings blink in the window, and a beep makes the picture glitch.
+- The picture looks like a real CRT: a gently curved screen with rounded dark corners, scanlines, colour fringing, a soft glow, flicker and a glare on the glass, and a refresh that sweeps down the screen line by line, left to right. Up close, the picture breaks into red, green and blue stripes.
+- The printed report is plain: black ink on off-white paper with boxed labels.
+
+### Changes
+
+- Standing up, you can't reach down into a vial: the syringe stays by your hand until you sit, and the hint says so.
+- The waste beaker moved from the right of the bench to the left end, nearer the sink and the biohazard bin, and the clutter on the left moved to the right with the monitor. The how-to-play page says the monitor is on the right.
 
 ---
 

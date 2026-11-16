@@ -56,5 +56,5 @@ If you hit a bug or have an idea, [open an issue](../../issues).
 All rights reserved, © 2026 Donát Fodor. The game and its art may not be copied, reused or redistributed without
 permission.
 
-The game uses the Baloo 2 and Nunito fonts, under the SIL Open Font License. Their licence files are in
-[licenses](licenses).
+The game uses the Baloo 2 and Nunito fonts, under the SIL Open Font License, and the handwriting font Permanent Marker, under
+the Apache License 2.0. Their licence files are in [licenses](licenses).
