@@ -6,6 +6,7 @@ All notable changes to *Life Creation*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.5.9 | 2026-11-16 | Beta | Incubating by hand: your left hand carries the dish lid onto the dish, confetti in the dish, and the specimen cheers |
 | v0.5.8 | 2026-11-16 | Beta | Sound and menus: the radio and ambience play on while paused, hover and click sounds on every menu control, a whoosh when menus open |
 | v0.5.7 | 2026-11-16 | Beta | The starter look, part 2: a cardboard vial tag, a plain printed report, and an old CRT monitor with a retro desktop |
 | v0.5.6 | 2026-11-16 | Beta | Fixes from playing v0.5.5: rebind any key, an icon for every key, a sink with a drain, a view that leans only sitting |
@@ -25,6 +26,27 @@ All notable changes to *Life Creation*, newest first.
 | v0.1.0 | 2026-11-02 | Beta | New lab interface and pause menu |
 | v0.0.9 | 2026-11-02 | Beta | Fixes for built games |
 | v0.0.8 | 2026-11-02 | Beta | Art pass and first ticket fixes |
+
+---
+
+## v0.5.9 · 2026-11-16 · Beta
+
+Incubating by hand: you pick up the dish's glass lid, your left hand carries it, and setting it on the dish starts the incubation. A good result is celebrated inside the dish.
+
+### Highlights
+
+- Incubating is done by hand. Press <kbd>E</kbd> on the glass lid beside a seeded dish: your left hand takes it by the rim and carries it, and your right hand stays free. Press <kbd>E</kbd> on the dish to set the lid on, which starts the incubation; press it anywhere else to put the lid back.
+- The red Incubate button and its row of lights are gone. The printer's light pulses amber while the dish incubates, and the clipboard explains the lid.
+- A good result (grade C or better, with nothing from the bench in the dish) bursts confetti inside the dish, and the specimen cheers in its own way: a docile one hops shyly, a calm one turns a slow pirouette, a curious one turns to look at you, a feisty one bounces and spins, and a vicious one shakes and lunges at you.
+- The left hand holds the lid by pinching its rim from above. The lid tilts a little toward you and drifts with your hand.
+
+### Changes
+
+- Looking at the lid only says "<kbd>E</kbd> Pick it up". If the dish isn't ready, pressing <kbd>E</kbd> says why.
+
+### Fixes
+
+- Clicking with the sample dish or the waste beaker in your hand no longer pushes it down toward the bench.
 
 ---
 
