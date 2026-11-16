@@ -6,6 +6,7 @@ All notable changes to *Life Creation*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.5.6 | 2026-11-16 | Beta | Fixes from playing v0.5.5: rebind any key, an icon for every key, a sink with a drain, a view that leans only sitting |
 | v0.5.5 | 2026-11-15 | Beta | Two-handed jobs: your left hand pulls the vial corks and lifts the dish lid |
 | v0.5.4 | 2026-11-15 | Beta | The starter shed: a pine workbench, plywood floor, corked vials that pop open as you draw |
 | v0.5.3 | 2026-11-15 | Beta | Run and crouch, rebindable keys, a view that leans further, hands that stay out of the bench |
@@ -22,6 +23,25 @@ All notable changes to *Life Creation*, newest first.
 | v0.1.0 | 2026-11-02 | Beta | New lab interface and pause menu |
 | v0.0.9 | 2026-11-02 | Beta | Fixes for built games |
 | v0.0.8 | 2026-11-02 | Beta | Art pass and first ticket fixes |
+
+---
+
+## v0.5.6 · 2026-11-16 · Beta
+
+Fixes and polish from playing v0.5.5: any key can be rebound, every key has an icon, the sink is fixed, and the view and the held tool behave better.
+
+### Highlights
+
+- Controls: any keyboard key can be bound to any action (Ctrl, Alt, the digits, the arrow keys, the F keys, Tab and the rest), and so can the middle and the two side mouse buttons. Esc stays the pause key, and the left and right mouse buttons stay for using the tool and leaning in.
+- Every key and mouse button has its own icon on the Controls page and in the hints, and the mouse icons stay inside their row.
+- The sink is fixed: it no longer clips into the window frame, the basin is steel all the way down, and it has a drain.
+- The view leans only while you sit on the stool. Standing with a tool in your hand, it no longer leans or bounces; you walk up to things instead. Leaning also lifts your eyes a little, so the view isn't so low.
+- A tool in your hand only goes out to the sink while you hold <kbd>LMB</kbd> over it, and the sink has to be a little closer than before. Looking at the sink, or up at the shelf, leaves the tool by your hand.
+
+### Changes
+
+- The left hand lines up the pads of the thumb and finger on the lid's rim, so it looks like it touches it, and the lid gets a tight pinch while the cork keeps a wide one.
+- Tools no longer go out to the floor, and your eyes can't drop under the bench when you look down with a tool in hand.
 
 ---
 

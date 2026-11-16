@@ -35,7 +35,7 @@ The game isn't signed by a known publisher yet, so Windows may say it protected 
 | How to play | H |
 | Pause and settings | Esc |
 
-Settings let you change the graphics quality, resolution and UI size, the volume, the mouse sensitivity and which keys do what (click a key on the Controls page, then press the one you want).
+Settings let you change the graphics quality, resolution and UI size, the volume, the mouse sensitivity and which keys do what (click a key on the Controls page, then press the one you want: any key works, and so do the middle and side mouse buttons).
 
 ## More screenshots
 
