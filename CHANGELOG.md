@@ -6,6 +6,7 @@ All notable changes to *Life Creation*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.5.8 | 2026-11-16 | Beta | Sound and menus: the radio and ambience play on while paused, hover and click sounds on every menu control, a whoosh when menus open |
 | v0.5.7 | 2026-11-16 | Beta | The starter look, part 2: a cardboard vial tag, a plain printed report, and an old CRT monitor with a retro desktop |
 | v0.5.6 | 2026-11-16 | Beta | Fixes from playing v0.5.5: rebind any key, an icon for every key, a sink with a drain, a view that leans only sitting |
 | v0.5.5 | 2026-11-15 | Beta | Two-handed jobs: your left hand pulls the vial corks and lifts the dish lid |
@@ -24,6 +25,18 @@ All notable changes to *Life Creation*, newest first.
 | v0.1.0 | 2026-11-02 | Beta | New lab interface and pause menu |
 | v0.0.9 | 2026-11-02 | Beta | Fixes for built games |
 | v0.0.8 | 2026-11-02 | Beta | Art pass and first ticket fixes |
+
+---
+
+## v0.5.8 · 2026-11-16 · Beta
+
+Sound and menus: the radio and the room keep playing while the game is paused, every menu control ticks and clicks, and the menus open with a whoosh.
+
+### Highlights
+
+- The radio and the ambience (the yard by day, the crickets by night, the fridge hum) keep playing in the pause menu, so you can hear the Radio and Ambience sliders as you move them. The lab's one-off sounds still stop with the game.
+- Every menu control makes a soft tick when the pointer lands on it and a click when you press it: buttons, tabs, the arrows on a stepper, drop-downs, switches and sliders. They follow the Effects volume, and greyed-out buttons stay silent.
+- A whoosh plays when the pause menu and the settings open, and a softer one when they close or you go back from the settings.
 
 ---
 
