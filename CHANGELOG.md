@@ -6,6 +6,7 @@ All notable changes to *Life Creation*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.6.0 | 2026-11-17 | Beta | A tidy-up round: fixes and small touches from a read-through of the whole game, a pixel font on the lab monitor, and a smaller download |
 | v0.5.9 | 2026-11-16 | Beta | Incubating by hand: your left hand carries the dish lid onto the dish, confetti in the dish, and the specimen cheers |
 | v0.5.8 | 2026-11-16 | Beta | Sound and menus: the radio and ambience play on while paused, hover and click sounds on every menu control, a whoosh when menus open |
 | v0.5.7 | 2026-11-16 | Beta | The starter look, part 2: a cardboard vial tag, a plain printed report, and an old CRT monitor with a retro desktop |
@@ -26,6 +27,35 @@ All notable changes to *Life Creation*, newest first.
 | v0.1.0 | 2026-11-02 | Beta | New lab interface and pause menu |
 | v0.0.9 | 2026-11-02 | Beta | Fixes for built games |
 | v0.0.8 | 2026-11-02 | Beta | Art pass and first ticket fixes |
+
+---
+
+## v0.6.0 · 2026-11-17 · Beta
+
+A tidy-up round after a read-through of the whole game: fixes, small touches that make the bench feel more natural, and a clear-out of things the game no longer uses. The lab monitor also gets a pixel font.
+
+### Highlights
+
+- The lab monitor's desktop is lettered in a pixel font, Pixelify Sans, and its counter is labelled "Mold".
+- A stray key press can't throw your work away any more: hold <kbd>R</kbd> for a fresh dish, hold <kbd>X</kbd> on the shelf to let a specimen go, and "Reset to defaults" in the settings asks for a second click.
+- When the incubation finishes, a note names your new organism and its grade. The culture pulses while it incubates, and the confetti pops.
+
+### Changes
+
+- The hint at the bottom follows what you are doing: "Dish lid · <kbd>E</kbd> Put it back" while you carry the lid, "Incubating…" while the dish incubates, and a seeded dish says it needs a dose first.
+- The clipboard, the printed report and the hints show the keys you chose in the settings.
+- The how-to-play card explains the lid and the monitor, opens a little quicker, and plays the menu's whoosh.
+- A vial's cork stays out a little longer when you look away, so it no longer pops in and out between two draws.
+- The download is a little smaller: menu art, models and old code the game no longer uses are gone.
+
+### Fixes
+
+- The lid can't go on a dish that hasn't been dosed; the game says to dose it first.
+- A cheering specimen no longer spins into a blur; it turns the way its temperament says.
+- The lid and the tool in your hand keep up with you when you walk.
+- Rebinding can no longer put two actions on one key: if the swap has nowhere to go, the key stays as it was and a warning sounds. Switching settings tabs while the game waits for a key stops the wait.
+- A full syringe, or one holding another reagent, no longer pulls a vial's cork.
+- <kbd>R</kbd> on an empty dish says the dish is still empty and leaves the bench alone.
 
 ---
 
