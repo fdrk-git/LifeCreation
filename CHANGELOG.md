@@ -6,6 +6,7 @@ All notable changes to *Life Creation*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.6.1 | 2026-11-17 | Beta | Fixes from playing v0.6.0: a ring shows how long to hold R and X, a note when a key is already taken, and everything fits at a big UI scale |
 | v0.6.0 | 2026-11-17 | Beta | A tidy-up round: fixes and small touches from a read-through of the whole game, a pixel font on the lab monitor, and a smaller download |
 | v0.5.9 | 2026-11-16 | Beta | Incubating by hand: your left hand carries the dish lid onto the dish, confetti in the dish, and the specimen cheers |
 | v0.5.8 | 2026-11-16 | Beta | Sound and menus: the radio and ambience play on while paused, hover and click sounds on every menu control, a whoosh when menus open |
@@ -27,6 +28,23 @@ All notable changes to *Life Creation*, newest first.
 | v0.1.0 | 2026-11-02 | Beta | New lab interface and pause menu |
 | v0.0.9 | 2026-11-02 | Beta | Fixes for built games |
 | v0.0.8 | 2026-11-02 | Beta | Art pass and first ticket fixes |
+
+---
+
+## v0.6.1 · 2026-11-17 · Beta
+
+Fixes from playing v0.6.0.
+
+### Changes
+
+- While you hold <kbd>R</kbd> for a fresh dish, an amber ring around the aim point fills up; when it is full, the dish goes. On the shelf, the same ring fills around the <kbd>X</kbd> key in the hint while you hold it to let a specimen go.
+- In the Controls settings, the line under the keys says when a key is already taken, and whether the two actions swapped keys or the key was refused.
+- The how-to-play card says how to throw a dish away.
+
+### Fixes
+
+- At a UI scale of 110 % or 120 %, everything fits: the how-to-play card shrinks to fit the screen, the hint at the bottom moves clear of it, the pause menu's "Back to the lab" sits beside the menu, and the hint no longer covers the last line of a report or a specimen card.
+- Two messages that still said "press <kbd>R</kbd>" for a fresh dish now say "hold".
 
 ---
 
