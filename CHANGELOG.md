@@ -6,6 +6,7 @@ All notable changes to *Life Creation*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.7.0 | 2026-11-17 | Beta | Your lab remembers: saving, with an autosave, and Save, Load and New lab in the pause menu |
 | v0.6.1 | 2026-11-17 | Beta | Fixes from playing v0.6.0: a ring shows how long to hold R and X, a note when a key is already taken, and everything fits at a big UI scale |
 | v0.6.0 | 2026-11-17 | Beta | A tidy-up round: fixes and small touches from a read-through of the whole game, a pixel font on the lab monitor, and a smaller download |
 | v0.5.9 | 2026-11-16 | Beta | Incubating by hand: your left hand carries the dish lid onto the dish, confetti in the dish, and the specimen cheers |
@@ -28,6 +29,24 @@ All notable changes to *Life Creation*, newest first.
 | v0.1.0 | 2026-11-02 | Beta | New lab interface and pause menu |
 | v0.0.9 | 2026-11-02 | Beta | Fixes for built games |
 | v0.0.8 | 2026-11-02 | Beta | Art pass and first ticket fixes |
+
+---
+
+## v0.7.0 · 2026-11-17 · Beta
+
+Your lab remembers: quit, come back, and everything is where you left it.
+
+### Highlights
+
+- The game saves your lab: the specimens on the shelf and their reports, the dish you are working on (with its doses so far, or finished with its report by the printer), the sample dish, where the tools are, what's in the syringe, the waste beaker and the bin, spills and mold, the dish number, your best grade and the time of day. When you start the game, you carry on where you left off.
+- It saves by itself every 2 minutes, after every dish and when you quit.
+- The pause menu's buttons all work now: "Save game" saves with a little chime, "Load game" goes back to your last save, "New lab" starts over, and "Save and quit" saves before the game closes. Load game and New lab ask for a second click first.
+
+### Changes
+
+- Saves from this version keep loading in later versions. A save the game can't read, or one from a newer version, is never written over: it is kept beside the new one, and a note says so.
+- The save is a file called `lab.json`, in `%USERPROFILE%\AppData\LocalLow\FDRK Group\LifeCreation` on Windows.
+- Not kept: used wipes, what was thrown in the bin (only how full it is), and where you stand: you start on the stool.
 
 ---
 
