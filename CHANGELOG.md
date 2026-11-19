@@ -6,6 +6,7 @@ All notable changes to *Life Creation*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.8.0 | 2026-11-19 | Beta | The front door: a Dutch door with a serving hatch you work by hand, walking in at the start, and the shed from outside |
 | v0.7.1 | 2026-11-19 | Beta | Hands: a nitrile glove, every tool held the way a real hand holds it, and real-looking petri dishes |
 | v0.7.0 | 2026-11-17 | Beta | Your lab remembers: saving, with an autosave, and Save, Load and New lab in the pause menu |
 | v0.6.1 | 2026-11-17 | Beta | Fixes from playing v0.6.0: a ring shows how long to hold R and X, a note when a key is already taken, and everything fits at a big UI scale |
@@ -30,6 +31,39 @@ All notable changes to *Life Creation*, newest first.
 | v0.1.0 | 2026-11-02 | Beta | New lab interface and pause menu |
 | v0.0.9 | 2026-11-02 | Beta | Fixes for built games |
 | v0.0.8 | 2026-11-02 | Beta | Art pass and first ticket fixes |
+
+---
+
+## v0.8.0 · 2026-11-19 · Beta
+
+The front door: a Dutch door with a serving hatch that you open and shut by hand, a walk in through it at the start of every game, and the shed from outside.
+
+### Highlights
+
+- A front door in the shed's front wall: a pine Dutch door, with spear-tipped hinges, ledges and a brace. Its top half opens on its own as a serving hatch over a counter, where buyers will be handed their specimens later; its bottom half opens the whole door.
+- It swings like a real door. Pushed open, it carries on and slows to a stop. Shutting, it gathers speed, knocks into the frame and bounces back a little. It has its own sounds: a wooden creak as it swings, and a thud and a latch click as it shuts.
+- You work it by hand. Step up to it, press E, and your hand takes it from your side:
+  - the counter's edge, the fingers laid over it;
+  - the hatch's iron pull from inside, or its knob from the room.
+
+  The hand draws it a little way and lets it swing on. If you're standing where it swings, you step back out of its way. From further than your hand can reach, it shows just its name, and E does nothing.
+- Every game starts outside. You step up to the door, push it open with your palm, and walk in round to the stool while it swings shut behind you. Then you sit down at the bench. Any key skips it.
+- The shed from outside:
+  - a felt roof with an overhang, plank gables, barge boards, a ridge cap and corner boards;
+  - a stepping-stone path from the gate, and a doormat;
+  - a painted LIFE CREATION sign over the door, and an OPEN card on the hatch;
+  - a lamp that lights up at night;
+  - a rain barrel with a gutter and a downpipe.
+
+### Changes
+
+- The shed is 60 cm deeper toward the door, so there's room between the stool and the open door.
+- The window over the sink is boarded up: old planks are nailed across a smaller opening, and sunlight comes through the gaps in thin streaks. Outside, it has a biohazard sticker.
+- The front wall is one piece around the door, its boards lined up inside and out.
+
+### Fixes
+
+- The petri dishes no longer flicker. The agar stops short of the glass, and the labels sit off the wall.
 
 ---
 
