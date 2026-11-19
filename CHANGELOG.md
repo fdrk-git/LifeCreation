@@ -6,6 +6,7 @@ All notable changes to *Life Creation*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.8.1 | 2026-11-20 | Beta | Fixes: ten small bugs from the read-through, and hands that react (a push on the plunger, a shiver on the tweezers) |
 | v0.8.0 | 2026-11-19 | Beta | The front door: a Dutch door with a serving hatch you work by hand, walking in at the start, and the shed from outside |
 | v0.7.1 | 2026-11-19 | Beta | Hands: a nitrile glove, every tool held the way a real hand holds it, and real-looking petri dishes |
 | v0.7.0 | 2026-11-17 | Beta | Your lab remembers: saving, with an autosave, and Save, Load and New lab in the pause menu |
@@ -31,6 +32,31 @@ All notable changes to *Life Creation*, newest first.
 | v0.1.0 | 2026-11-02 | Beta | New lab interface and pause menu |
 | v0.0.9 | 2026-11-02 | Beta | Fixes for built games |
 | v0.0.8 | 2026-11-02 | Beta | Art pass and first ticket fixes |
+
+---
+
+## v0.8.1 · 2026-11-20 · Beta
+
+Fixes: ten small bugs from the read-through, and hands that react to the work.
+
+### Highlights
+
+- Hands that react:
+  - Pressing the syringe's plunger in, your hand gives a little push toward the needle.
+  - Squeezing the tweezers hard makes your hand shiver, more the harder you press. You feel the squeeze getting too hard before the sample is crushed.
+
+### Fixes
+
+- A sample dish thrown in the biohazard bin no longer turns solid white.
+- Aiming the tweezers at a sample dropped on the bench no longer opens the sample dish's lid.
+- An Iridescent culture now shimmers in the dish, not only in the report.
+- A specimen no longer lurches when you start inspecting it on the shelf.
+- A fast mouse swipe at the bench stops at the edge of the view, instead of overshooting and springing back.
+- The radio and the room sound carry on through a long stutter, instead of starting over.
+- Spores, sink drops and other little effects no longer pile up while the game is paused.
+- A report shelved or thrown away while it's still printing goes as a whole page.
+- Pressing Esc right after clicking Settings no longer opens the settings over the running game.
+- A sample in the tweezers stays held through a pause, until you press the left button again.
 
 ---
 
