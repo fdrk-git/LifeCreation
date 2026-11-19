@@ -6,6 +6,7 @@ All notable changes to *Life Creation*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.7.1 | 2026-11-19 | Beta | Hands: a nitrile glove, every tool held the way a real hand holds it, and real-looking petri dishes |
 | v0.7.0 | 2026-11-17 | Beta | Your lab remembers: saving, with an autosave, and Save, Load and New lab in the pause menu |
 | v0.6.1 | 2026-11-17 | Beta | Fixes from playing v0.6.0: a ring shows how long to hold R and X, a note when a key is already taken, and everything fits at a big UI scale |
 | v0.6.0 | 2026-11-17 | Beta | A tidy-up round: fixes and small touches from a read-through of the whole game, a pixel font on the lab monitor, and a smaller download |
@@ -29,6 +30,36 @@ All notable changes to *Life Creation*, newest first.
 | v0.1.0 | 2026-11-02 | Beta | New lab interface and pause menu |
 | v0.0.9 | 2026-11-02 | Beta | Fixes for built games |
 | v0.0.8 | 2026-11-02 | Beta | Art pass and first ticket fixes |
+
+---
+
+## v0.7.1 · 2026-11-19 · Beta
+
+Hands: a new gloved hand that holds every tool the way a real hand would, and dishes that look like the real thing.
+
+### Highlights
+
+- A new glove: light-blue nitrile with a soft sheen, creases between the fingers and at the knuckles, and a sleeve that fades out smoothly instead of in grainy dots. The hand swings a little with each step when you walk.
+- Every tool has a new grip, posed from reference photos of real hands:
+  - the tweezers in a pencil grip, the fingers closing as you squeeze;
+  - the syringe pushed with the thumb, and drawn with the same hand;
+  - the bleach, now a lab wash bottle, held round its body and squeezed;
+  - an alcohol wipe, now a folded pad, pinched when you carry it and pressed under your fingertips when you scrub, dragging and wrinkling;
+  - the waste beaker wrapped like a drinking glass;
+  - the sample dish held by its sides, the thumb on one wall and the middle finger tucked under it.
+- Pouring the waste beaker into the bin: it stays in your hand, tips over the open bin and pours a stream into the bag, then tips back. The beaker is smaller (three quarters of its old size), its spout is on the side it pours from, and its label faces you.
+- The sample dish is a real 9 cm petri dish: thin walls, a thin layer of honey-colored agar that creeps up the wall at its edge, a see-through blue lid, a label, and 5 samples. The spare dishes in the fridge match.
+- The specimen dish gets the same look, with pale honey agar over the cutting mat and a tall, flat-topped see-through blue lid.
+
+### Changes
+
+- The wipes tub hands the next wipe up, and only says "Put back" while you hold a wipe over it.
+- Holding right-click leans in a little less, and points the tool in your hand where you look.
+- Picking something up no longer flings your hand up.
+
+### Fixes
+
+- The key pictures in the hints (E, Shift, the mouse) could be drawn as a jumble of broken pieces; they show properly again.
 
 ---
 
