@@ -6,6 +6,7 @@ All notable changes to *Life Creation*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.8.2 | 2026-11-20 | Beta | Fixes from playing v0.8.1: the lid comes off when you inspect a dish, plump cultures no longer sink into the agar, and a "Saved" note |
 | v0.8.1 | 2026-11-20 | Beta | Fixes: ten small bugs from the read-through, and hands that react (a push on the plunger, a shiver on the tweezers) |
 | v0.8.0 | 2026-11-19 | Beta | The front door: a Dutch door with a serving hatch you work by hand, walking in at the start, and the shed from outside |
 | v0.7.1 | 2026-11-19 | Beta | Hands: a nitrile glove, every tool held the way a real hand holds it, and real-looking petri dishes |
@@ -32,6 +33,21 @@ All notable changes to *Life Creation*, newest first.
 | v0.1.0 | 2026-11-02 | Beta | New lab interface and pause menu |
 | v0.0.9 | 2026-11-02 | Beta | Fixes for built games |
 | v0.0.8 | 2026-11-02 | Beta | Art pass and first ticket fixes |
+
+---
+
+## v0.8.2 · 2026-11-20 · Beta
+
+Fixes from playing v0.8.1: a clear look at your specimens, and a note when the game saves.
+
+### Changes
+
+- Inspecting a dish on the shelf lifts its lid up and out of the way, so nothing sits between you and the specimen. It goes back on when you're done.
+- "Saved" shows for a moment beside the version in the corner every time the lab is saved, including the autosave every 2 minutes, so you know it did.
+
+### Fixes
+
+- A plump or big culture no longer sinks half into the agar. Its lower half used to show through the gel with a weird amber tint; now it rests on top, in the dish on the bench and on the shelf.
 
 ---
 
