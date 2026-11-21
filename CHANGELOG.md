@@ -6,6 +6,7 @@ All notable changes to *Life Creation*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.9.1 | 2026-11-21 | Beta | Fixes from playing v0.9.0: matte brick, no light through the arches, no floating hands on the title, and an FPS counter |
 | v0.9.0 | 2026-11-21 | Beta | A new home: the shed now stands in a yard under a railway viaduct, with trains, a street of shops, a title screen and a free camera |
 | v0.8.2 | 2026-11-20 | Beta | Fixes from playing v0.8.1: the lid comes off when you inspect a dish, plump cultures no longer sink into the agar, and a "Saved" note |
 | v0.8.1 | 2026-11-20 | Beta | Fixes: ten small bugs from the read-through, and hands that react (a push on the plunger, a shiver on the tweezers) |
@@ -34,6 +35,27 @@ All notable changes to *Life Creation*, newest first.
 | v0.1.0 | 2026-11-02 | Beta | New lab interface and pause menu |
 | v0.0.9 | 2026-11-02 | Beta | Fixes for built games |
 | v0.0.8 | 2026-11-02 | Beta | Art pass and first ticket fixes |
+
+---
+
+## v0.9.1 · 2026-11-21 · Beta
+
+Fixes from playing v0.9.0, the first of a slow, careful rework of the world outside, and an FPS counter.
+
+### New
+
+- **Show FPS** in Settings, Gameplay: the frames per second on a small tag in the top right corner, amber under 50 and red under 30. It stays up over the title screen and the free camera.
+
+### Fixes
+
+- The kerbs along the road no longer flicker.
+- No more sunlight striping the ceilings of the arches: they stay in shade, as under a real bridge.
+- Gliding in from the title screen, your hands no longer float in mid-air ahead of you; they come up once the view reaches your eyes.
+- Through the open arch to the right, the title screen now looks onto a row of houses instead of empty sky.
+- The brick is matte: it no longer shines blue when you look along a wall.
+- The lock-up's roller door no longer repeats the same little graffiti all over.
+- Inside the shed, the sunlight comes in through the gaps between the planks over the window, not out of the planks.
+- The shed's roof ridge and its edges are dark wood, without a grey line along the top. The stray biohazard sticker on the outside of the window is gone.
 
 ---
 
