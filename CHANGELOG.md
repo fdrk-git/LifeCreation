@@ -6,6 +6,7 @@ All notable changes to *Life Creation*, newest first.
 
 | Version | Date | Status | Summary |
 |---|---|---|---|
+| v0.9.0 | 2026-11-21 | Beta | A new home: the shed now stands in a yard under a railway viaduct, with trains, a street of shops, a title screen and a free camera |
 | v0.8.2 | 2026-11-20 | Beta | Fixes from playing v0.8.1: the lid comes off when you inspect a dish, plump cultures no longer sink into the agar, and a "Saved" note |
 | v0.8.1 | 2026-11-20 | Beta | Fixes: ten small bugs from the read-through, and hands that react (a push on the plunger, a shiver on the tweezers) |
 | v0.8.0 | 2026-11-19 | Beta | The front door: a Dutch door with a serving hatch you work by hand, walking in at the start, and the shed from outside |
@@ -33,6 +34,23 @@ All notable changes to *Life Creation*, newest first.
 | v0.1.0 | 2026-11-02 | Beta | New lab interface and pause menu |
 | v0.0.9 | 2026-11-02 | Beta | Fixes for built games |
 | v0.0.8 | 2026-11-02 | Beta | Art pass and first ticket fixes |
+
+---
+
+## v0.9.0 · 2026-11-21 · Beta
+
+A new home: the shed now stands in a hidden yard under a railway viaduct in the city, with a street of shops across the road, trains going over, and a title screen that opens on it.
+
+### New
+
+- **The viaduct.** The shed stands in the mouth of a brick railway arch, in a fenced-off yard. Raised arch rings, stone keystones, pilasters, a corbelled cornice, coping stones and an iron railing; the arch to the left is a lock-up with a rusty roller shutter, the one to the right an open passage with a mesh gate.
+- **The yard.** Packed earth with a flagstone path from the gap in the fence to the door, ruts, puddles that mirror the sky, and weeds, ivy, buddleia and young trees growing out of everything. A water butt, crates of seedlings, a gas cage, an oil drum, a wheelbarrow, loose bricks, pallets and an old bath planted up.
+- **The street.** A terrace of shops and houses across the road: a cafe, a pub, a corner shop, a launderette, a barber, a fish and chip shop, a boarded-up shop and more. A lantern street lamp, bollards, a skip with cones, bins, a bench, a post box, a parked car and a van. The city's skyline beyond, with your old employer's glass tower standing in the arch.
+- **Trains.** A four-car commuter train crosses the viaduct every few minutes; the lamp and the shelf tremble as it passes.
+- **Walking in.** Every start, you come in from the pavement through the gap in the fence, gravel crunching underfoot, and push the door open. City sounds: traffic in the distance, a car now and then, pigeons on the viaduct.
+- **Light.** Long shadows, deep coloured shade, dark arches, a golden dusk, painted clouds, and at night warm pools of light from the street lamp and the shop windows.
+- **Title screen.** The game opens on the street, looking through the gap in the fence at the shed, with Continue, New lab, Settings and Quit. Continue glides you in from the street straight into walking in, with no cut.
+- **Free camera.** Press V to leave your seat and fly the view anywhere to look round the scenery (WASD, Space up, C down, Shift faster, the scroll wheel sets the speed); V again puts you back. Its key can be changed in Settings, Controls.
 
 ---
 
